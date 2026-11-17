@@ -1,0 +1,6 @@
+{
+  "name": "SkillSphere",
+  "description": "SkillSphere – A Global Skill Development, Knowledge Sharing and Collaboration Platform. Learn. Connect. Create. Grow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
